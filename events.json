@@ -20,6 +20,12 @@
       "title": "Coding Contest",
       "date": "2027-05-20",
       "venue": "Lab 2"
+    },
+    {
+        "title": "Robotics Workshop",
+        "date": "2027-07-10",
+        "venue": "Lab 1"
     }
+
   ]
 }
